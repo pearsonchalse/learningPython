@@ -1,2 +1,2 @@
 # ignore folders
-mymodlue/__pycache__/
+__pycache__/
